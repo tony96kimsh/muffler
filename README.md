@@ -21,8 +21,13 @@
 # 2주차 (21 Mar ~ 27 Mar)
 
 3.7 이벤트 이해하기 / https://velog.io/@tonyisback/eda
+
 4장 http 모듈로 서버 만들기
+
 4.1 요청과 응답 이해하기
+
 4.2 REST와 라우팅 사용하기
+
 4.3 쿠키와 세션 이해하기
+
 4.4 https와 http2
