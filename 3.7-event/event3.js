@@ -14,7 +14,7 @@ const showLs = e => {
 myEvent.on('eventOn1', ls1);
 myEvent.on('eventOn2', ls2);
 
-// 리스너 개수 출력
+// 리스너 개수 출력``
 showLs('eventOn1');  // 1
 showLs('eventOn2');  // 1
 
