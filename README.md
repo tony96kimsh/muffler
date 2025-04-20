@@ -1,5 +1,7 @@
 # ✍️ 개인 프로젝트 – 성훈의 방명록
-![방명록샘플](image.png)
+
+<img src="image.png" alt="방명록샘플" width="300">
+
 ## 🛠 기술 스택
 
 - 백엔드: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white) ![JSONBin](https://img.shields.io/badge/JSONBin-0A0A23?style=flat&logo=datadog&logoColor=white)
