@@ -67,5 +67,5 @@ app.post('/delete', async (req, res) => {
 });
 
 app.listen(3000, () => {
-    console.log('메모장 앱 실행 중! http://localhost:3000');
+    console.log('방명록 앱 실행 중! http://localhost:3000');
 });
