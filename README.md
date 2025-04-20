@@ -27,7 +27,6 @@
 - **JSONBin을 이용한 외부 DB-like 저장**
 - **EJS 기반 템플릿 구성**으로 깔끔한 UI 구성
 - **Axios로 RESTful API 연동** 및 JSON 처리
-- **`.env` 환경변수 기반 API Key 관리**
 - **Render를 통한 서버 배포 & 접근 가능 웹서비스 구성**
 
 <br>
